@@ -16,4 +16,6 @@ Although a static website, it provides an overview of the expectations that awai
 
 Enjoy!!!
 
+@copyright: TAOY
+
 
